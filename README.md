@@ -1,1 +1,2 @@
 # ALOOO
+print "hello world"
